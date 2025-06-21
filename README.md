@@ -15,7 +15,7 @@ Tela inicial com botão de começar
 
 Tela de perguntas com cronômetro, alternativas e interação com o mouse
 
-Tela de feedback (acerto/erro) com cores e sons
+Tela de feedback (acerto/erro) com cores 
 
 Tela final mostrando a pontuação
 
